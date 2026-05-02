@@ -37,7 +37,7 @@ Task_Manager/
 └── README.md
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Narendra-kuma-gupta/TaskManager)
 cd your-repo-name
 2️⃣ Setup Backend
 cd backend
